@@ -1,0 +1,19 @@
+.div{
+    background: url('https://preview.colorlib.com/theme/immigration/img/header-img.png.webp');
+    background-position: right;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.div1{
+    background-color: #F6214B;
+    overflow: hidden;
+}
+.span:hover{
+  color: red;
+}
+.span{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
